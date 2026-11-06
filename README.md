@@ -7,4 +7,5 @@ This is a paragrpah-level dataset of Classical Chinese prose, containing 6000 pa
 | dev | 600 |
 | test | 600 |
 | total | 6000 |
+
 Samples are divided into 6 paradigms: Pre-Qin philosophers' prose, Qin-Han-Wei-Jin prose, Tang prose, Song prose, Ming Xiaopin prose, Qing Tongcheng-school prose.Each paradigm has 1000 samples overall and is balanced across the three splits.
